@@ -1,0 +1,13 @@
+﻿  functions.c
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(39,42): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(47,42): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(55,50): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(73,45): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(81,43): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(89,39): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(97,41): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(262,44): warning C4028: formalny parametr 2 różni się od deklaracji
+  main.c
+  Generowanie kodu...
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(269,56): warning C4028: formalny parametr 2 różni się od deklaracji
+  Ksiazka.vcxproj -> C:\Users\granatoowa\source\repos\Ksiazka\Debug\Ksiazka.exe
